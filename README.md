@@ -2,7 +2,7 @@
 Dracula is a sleepyhead
 
 
-A simple Blender Project and an animation derived from it.
+A simple Blender Project and an animation derived from it. Everything in the video is modeled by myself. Textures are downloaded from free textures websites
 Hope you like it ! 
 
 ![1](https://github.com/Tiberius2/Sleepy-Dracula/assets/58856795/9dbadd20-0151-426b-80ef-179d9b5adadf)
