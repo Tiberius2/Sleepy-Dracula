@@ -1,7 +1,7 @@
 # Animatii3dProject
 Dracula is a sleepyhead
 
-Youtube : https://www.youtube.com/watch?v=ONeOrpBKPI0
+Youtube animation: https://www.youtube.com/watch?v=ONeOrpBKPI0
 
 
 A simple Blender Project and an animation derived from it. Everything in the video is modeled by myself. Textures are downloaded from free textures websites
